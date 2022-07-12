@@ -1,5 +1,5 @@
 ## Hey my name is Avi 👋
-Fullstack development course graduate, with about 2 years of familiarity with JS.
+Fullstack development course graduate at HackerU Pro, with about 2 years of familiarity with JS.
 I'm passionate about programming and curios to learn new technologies by experiencing with them.
 Looking for my next opportunity as a Junior Fullstack Developer.
 
