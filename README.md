@@ -20,7 +20,11 @@ Looking for my next opportunity as a Junior Fullstack Developer.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>
+</div> 
+
+## Exapmle of work
+<img src="Book Store Project.gif" width="256" />
+
 
 ## Contact with me  
 <div align="center">
@@ -33,8 +37,5 @@ Looking for my next opportunity as a Junior Fullstack Developer.
 <a href="https://instagram.com/Avi_Garama" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</div>  
-
-## Exapmle of work
-<img src="Book Store Project.gif" width="256" />
+</div> 
 
