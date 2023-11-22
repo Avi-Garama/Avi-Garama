@@ -20,6 +20,10 @@ Looking for my next opportunity as a Junior Fullstack Developer.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://www.revolutiongamesindia.com/wp-content/uploads/2021/01/csharp.png" alt="C#" height="50" />  
+
+
+  
 </div> 
 
 ## Exapmle of work
